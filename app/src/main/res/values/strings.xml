@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name" translatable="false">HolaMundo20241</string>
     <string name="txtBienvenida">Welcome</string>
-    <string name="descImg">Image about Linux-Tux</string>
+    <string name="descImg">Image about Linux Tux</string>
 </resources>
